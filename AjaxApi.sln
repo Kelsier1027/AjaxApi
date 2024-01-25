@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxApi", "AjaxApi\AjaxApi.csproj", "{94E14D0B-6AC5-47E4-A302-FD5663E237D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E14D0B-6AC5-47E4-A302-FD5663E237D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E14D0B-6AC5-47E4-A302-FD5663E237D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E14D0B-6AC5-47E4-A302-FD5663E237D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E14D0B-6AC5-47E4-A302-FD5663E237D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9882999-24F7-4FD7-8A31-27D8DFDE0D36}
+	EndGlobalSection
+EndGlobal
